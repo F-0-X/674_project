@@ -1,0 +1,1 @@
+We put the ModelNet40.points folder in this directory
